@@ -1,2 +1,2 @@
 # pulak-portfolio
-live Url [https://informarplanet.github.io/pulak-portfolio/]
+[https://pulak-portfolio.vercel.app/]live Url
